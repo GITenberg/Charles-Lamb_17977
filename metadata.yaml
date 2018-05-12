@@ -1,0 +1,31 @@
+_repo: Charles-Lamb_17977
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jerrold, Walter
+    alias: Jerrold, Walter Copeland
+    birthdate: 1865
+    deathdate: 1929
+    gutenberg_agent_id: '7734'
+    url: http://www.gutenberg.org/2009/agents/7734
+description: This is an electronic edition of the complete book. This book features
+  the table of contents linked to every chapter. The book was designed for optimal
+  navigation on the Kindle, PDA, Smartphone, and other electronic readers. It is formatted
+  to display on all electronic devices including the Kindle, Smartphones and other
+  Mobile Devices with a small display.
+gutenberg_issued: '2006-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17977'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Lamb, Charles, 1775-1834'
+title: Charles Lamb
+url: http://www.gutenberg.org/ebooks/17977
